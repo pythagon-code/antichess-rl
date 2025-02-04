@@ -1,6 +1,6 @@
 # **Antichess Reinforcement Learning Agent**
 
-A **Deep Q-Learning-based AI** for **Antichess**, a chess variant where the objective is to **lose all your pieces or get stalemated**. This project trains **two reinforcement learning agents** to compete against each other using delayed double Q-network strategy.
+A **Deep Q-Learning-based AI** for **Antichess**, a chess variant where the objective is to **lose all your pieces or get stalemated**. This project trains **two reinforcement learning agents** to compete against each other using delayed double Q-networks strategy.
 
 ---
 
