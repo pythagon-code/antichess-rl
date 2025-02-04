@@ -35,7 +35,7 @@ Antichess, also known as **Losing Chess**, is a chess variant where players aim 
 ✅ **Deep Q-Learning with self-play training**  
 ✅ **Uses experience replay for stable learning**  
 ✅ **Implements Polyak averaging for smooth target network updates**  
-✅ **Customizable opponent strategy (random or learned)**  
+✅ **Customizable opponent strategy (White or Black)**  
 
 ---
 
