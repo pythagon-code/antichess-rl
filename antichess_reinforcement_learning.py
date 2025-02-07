@@ -332,7 +332,7 @@ save_models(policy_net_black, "black.pth")
 printBoard(board)
 
 ####################################################################################
-#                              Testing        c:\Users\abhay_7d5ltou\Downloads\antichess_reinforcement_learnig.py                                     #
+#                              Testing                                             #
 ####################################################################################
 from time import sleep
 
