@@ -82,7 +82,7 @@ Gradual target network updates for more stable learning.
 ### **Setup**
 
 ```bash
-git clone https://github.com/your-repo/antichess-rl.git
+git clone https://github.com/pythagon-code/antichess-rl.git
 cd antichess-rl
 pip install -r requirements.txt
 ```
